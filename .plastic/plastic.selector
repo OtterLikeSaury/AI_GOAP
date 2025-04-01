@@ -1,0 +1,4 @@
+repository "AI_GOAP@tj_bzy_17ca2c34_9f03_4341_b2c3_496ed50ad8b4@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
